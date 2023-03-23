@@ -1,7 +1,7 @@
 gradio
 mdtex2html
 pypinyin
-tiktoken -i https://pypi.tuna.tsinghua.edu.cn/simple
+tiktoken
 socksio
 tqdm
 colorama
